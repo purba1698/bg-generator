@@ -1,0 +1,19 @@
+{
+  "name": "bg-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purba1698/bg-generator.git"
+  },
+  "author": "Purba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purba1698/bg-generator/issues"
+  },
+  "homepage": "https://github.com/purba1698/bg-generator#readme"
+}
